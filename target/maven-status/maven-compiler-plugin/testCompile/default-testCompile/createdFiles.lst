@@ -1,0 +1,16 @@
+BasicsTestng\Class3.class
+utils\Constants.class
+utils\PageInitializer.class
+pages\AddEmployeePage.class
+pages\LoginPage.class
+Basics2\Class3.class
+pages\DashboardPage.class
+Basics2\Class5.class
+BasicsTestng\Class1.class
+utils\ConfigReader.class
+BasicsTestng\Class4.class
+utils\CommonMethods.class
+testcases\LoginTest.class
+Basics2\Class6.class
+BasicsTestng\Class2.class
+pages\PersonalDetailsPage.class

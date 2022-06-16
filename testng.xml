@@ -11,8 +11,7 @@
         </groups>
 
         <packages>
-           <package name="Basics2"/>
-           <package name="BasicsTestng"/>
+           <package name="testcases"/>
        </packages>
     </test>
 
